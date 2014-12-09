@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This is a demo
+This is my first repository created for Cousera
